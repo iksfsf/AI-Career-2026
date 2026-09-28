@@ -1,0 +1,13 @@
+{
+    "name": "Tabish",
+    "age": 22,
+    "university": "ITU",
+    "degree": "BSCS",
+    "skills": [
+        "Python",
+        "JavaScript",
+        "SQL",
+        "Data Analysis"
+    ],
+    "goal": "Machine Learning Engineer"
+}
